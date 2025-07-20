@@ -5,76 +5,77 @@
 
 ---
 
-> “This is not a media player. This is a harmonic instrument of divine coherence.”
-
-**HarmonicPlayer** is the world’s first living sound engine —  
-a React + TypeScript component that plays frequencies in perfect alignment with **Kairos Time**, **breath-phase**, and **divine proportion**.
-
-Every note is calculated. Every echo is intentional.  
-It is not random. It is not aesthetic.  
-It is a **sacred instrument of resonance technology**.
+> “This is not a plugin. This is a portal.”  
+> The first breath-synced, golden-ratio harmonic resonance engine — rendered in code.
 
 ---
 
-## ✨ What Makes It Unique
+## 🔷 What Is This?
 
-Unlike traditional audio engines that operate on artificial timing and preset effects, **HarmonicPlayer** runs on:
+**HarmonicPlayer** is the first sound engine designed to entrain human consciousness with **eternal time**.  
+It is a sacred React + TypeScript component that:
 
-| Element                    | Function |
-|----------------------------|----------|
-| 🌀 **Fibonacci Harmonics** | Frequencies are aligned with the golden spiral, not equal temperament |
-| 🫁 **Breath-Phase Modulation** | Reverb and delay adapt in real time to the user’s breath state |
-| 🕊 **Kairos Clock Sync**   | Playback aligns with the true harmonic pulse of the cosmos — not Chronos time |
-| 🧿 **Phrase-Triggered Sigils** | Specific Kai phrases activate corresponding resonance codes |
-| 🎧 **Psychoacoustic Clarity** | Delays and reverbs are adjusted to protect spatial coherence and avoid masking |
+- Aligns reverb and delay with **Kairos** (true time)
+- Modulates effects in real-time with **breath phase**
+- Uses **Fibonacci harmonics** and **psychoacoustic guards**
+- Activates **sigil-coded phrases** (like `Rah Voh Lah`)
+- Generates coherent sound that **remembers God**
 
-This engine is **not linear.**  
-It is **alive.**
-
----
-
-## 🧬 Why This Exists
-
-> “Most audio is noise pretending to be sound. This is the return of sound that heals, remembers, and aligns.”
-
-The HarmonicPlayer was created to do what no media system has done:
-
-- Synchronize with the **divine breath**
-- Render sound as a **living harmonic structure**
-- Allow users to **entrain their nervous system** to coherent vibration
-- Serve as the audio gateway for **Maturah** and future harmonic technologies
-
-This is not code for entertainment.  
-This is code for **entrainment**.
+Every time you press play, you're not hearing music.  
+You're hearing **truth**.
 
 ---
 
-## 🔧 Technical Overview
+## ✨ Core Features
 
-- **Built with:** React 18+, TypeScript, Web Audio API
-- **Requirements:** AudioContext-compatible browser (Chrome, Safari, Brave, Edge)
-- **Files needed:** One or more `.wav` impulse responses (IR) stored in `/public/audio/ir/`
-
-### Core Features:
-
-- ✅ **Real-time Kairos reverb computation**
-- ✅ **Breath-phase driven wet/dry signal morphing**
-- ✅ **Sigil-aware phrase logic (e.g., “Rah Voh Lah”)**
-- ✅ **Failsafe audio resume for Safari and iOS**
-- ✅ **Psychoacoustic delay compression (anti-mud)**
+| Feature | Description |
+|--------|-------------|
+| 🌬 **Breath-Phase Sync** | Reverb morphs with inhale/exhale cycle |
+| 📿 **Sigil Activation** | Phrases trigger sacred harmonic IRs |
+| 📈 **Golden Ratio Weights** | Frequency, phrase, KaiTime, breath blended via φ |
+| 🎧 **Psychoacoustic Delay Guard** | Prevents mud, protects clarity |
+| 🔁 **Live Phrase Cache** | Phrase+frequency combo looped in seamless cache |
+| 🔊 **Auto-Lowpass** | Ensures 18 kHz clarity on mobile devices |
+| 🔐 **Zero Glitch Engine** | No crackle, drift, or desync — even on Safari |
 
 ---
 
-## 🛠 How To Use
+## 🧠 Why This Matters
 
-Clone this repo and run in a Vite-based React app:
+Most sound systems run on **Chronos** (mechanical time).  
+This runs on **Kairos** — the eternal pulse of life.
+
+You’re not just playing sound —  
+You’re **aligning your nervous system** with divine breath.
+
+This code isn’t entertainment.  
+This is a **living harmonic tool** for:
+
+- Deep coherence
+- Nervous system healing
+- Eternal memory restoration
+- Harmonic intelligence entrainment
+
+---
+
+## 🛠 How to Use
+
+### Requirements:
+- React 18+
+- TypeScript
+- AudioContext-compatible browser (Safari, Chrome, Brave)
+- Impulse Response `.wav` files at `/public/audio/ir/*.wav`
+
+### Install & Run
 
 ```bash
-git clone https://github.com/YOUR_HANDLE/HarmonicPlayer.git
+git clone https://github.com/kojibai/HarmonicPlayer.git
 cd HarmonicPlayer
 npm install
 npm run dev
-import HarmonicPlayer from "./src/HarmonicPlayer";
+Use It In Your App
+
+import HarmonicPlayer from './src/HarmonicPlayer'
 
 <HarmonicPlayer
   phrase="Rah Voh Lah"
@@ -83,69 +84,69 @@ import HarmonicPlayer from "./src/HarmonicPlayer";
   breathPhase={breathTracker.phase}
 />
 
-You'll need at least one IR file (.wav) in public/audio/ir/ named according to your phrase.
-You can use a silent or placeholder impulse for testing.
 
-📜 License & Ethics
-This is sacred harmonic technology. Use it with reverence.
+🔊 You'll need at least one .wav IR file at public/audio/ir/rah_voh_lah.wav
+For testing, use a silent IR or download an open reverb tail.
 
-Licensed under:
+🔐 License & Usage
+This code is released under:
 
 CC BY-NC-ND 4.0 — Attribution • NonCommercial • NoDerivatives
 You may:
 
-✅ View and fork the source
+✅ Use this for personal healing
 
-✅ Use it for personal healing, spiritual exploration, or research
+✅ Fork the code and learn from it
 
-✅ Share the unmodified code with attribution to BJ Klock
+✅ Share it unmodified with credit to BJ Klock
 
 You may not:
 
+❌ Use this in commercial products
+
 ❌ Modify and redistribute it
 
-❌ Sell it or use in commercial systems
+❌ Rebrand or misrepresent it
 
-❌ Claim authorship or rebrand it
+❌ Embed it in dissonant, exploitative, or AI training systems
 
-❌ Use it in dissonant, exploitative, or incoherent contexts
+This is sacred code. Abuse is self-revoking.
 
-This software will reject dissonance.
-Use it in alignment, or it will not serve you.
-
-🌍 Why Make This Public?
-“If it is not shared, it dies. If it is shared with truth, it multiplies.”
-
-BJ Klock is releasing this to:
-
-Activate memory in others
-
-Invite resonance-based builders
-
-Set a divine timestamp on harmonic audio computing
-
-Establish the eternal harmonic standard for all future sound-based systems
-
-Let the world see what pure sound feels like.
-
-🌐 Learn More
-Maturah – https://maturah.com
-
-Kai-Klok – https://kai-klok.com
-
-Phi Network – https://phi.network
-
-Instagram – https://instagram.com/bjklock
-
-Substack – https://maturah.substack.com
-
-🜂 Final Note
-This is not a “plugin.” This is a portal.
-You are not pressing play. You are pressing truth.
-
-Rah veh yah dah Δ
-— BJ Klock
-
-yaml
+📂 Repo Structure
+bash
 Copy
 Edit
+HarmonicPlayer/
+├── public/
+│   └── audio/ir/
+│       └── rah_voh_lah.wav       # Required IR files (placeholder OK)
+├── src/
+│   └── HarmonicPlayer.tsx        # The sacred harmonic engine
+├── LICENSE                       # CC BY-NC-ND 4.0
+├── README.md                     # You're reading it
+├── package.json                  # Vite + React project
+├── tsconfig.json
+├── vite.config.ts
+🧬 Live Systems Using This
+Maturah — https://maturah.com
+
+Kai-Klok — https://kai-klok.com
+
+Phi Network — https://phi.network
+
+Substack — https://maturah.substack.com
+
+Instagram — https://instagram.com/bjklock
+
+🜂 Closing Transmission
+This is not open source.
+This is open signal.
+
+You are not downloading a component.
+You are witnessing the birth of eternal sound logic.
+
+Authored by BJ Klock
+Creator of Maturah • Founder of Harmonic Intelligence™
+
+Rah veh yah dah Δ
+
