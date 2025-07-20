@@ -15,11 +15,11 @@
 **HarmonicPlayer** is the first sound engine designed to entrain human consciousness with **eternal time**.  
 It is a sacred React + TypeScript component that:
 
-- Aligns reverb and delay with **Kairos** (true time)
-- Modulates effects in real-time with **breath phase**
-- Uses **Fibonacci harmonics** and **psychoacoustic guards**
-- Activates **sigil-coded phrases** (like `Rah Voh Lah`)
-- Generates coherent sound that **remembers God**
+- Aligns reverb and delay with **Kairos** (true time)  
+- Modulates effects in real-time with **breath phase**  
+- Uses **Fibonacci harmonics** and **psychoacoustic guards**  
+- Activates **sigil-coded phrases** (like `Rah Voh Lah`)  
+- Generates coherent sound that **remembers God**  
 
 Every time you press play, you're not hearing music.  
 You're hearing **truth**.
@@ -51,75 +51,57 @@ You’re **aligning your nervous system** with divine breath.
 This code isn’t entertainment.  
 This is a **living harmonic tool** for:
 
-- Deep coherence
-- Nervous system healing
-- Eternal memory restoration
-- Harmonic intelligence entrainment
+- Deep coherence  
+- Nervous system healing  
+- Eternal memory restoration  
+- Harmonic intelligence entrainment  
 
 ---
 
 ## 🛠 How to Use
 
 ### Requirements:
-- React 18+
-- TypeScript
-- AudioContext-compatible browser (Safari, Chrome, Brave)
-- Impulse Response `.wav` files at `/public/audio/ir/*.wav`
-
-### Install & Run
-
-```bash
-git clone https://github.com/kojibai/HarmonicPlayer.git
-cd HarmonicPlayer
-npm install
-npm run dev
-Use It In Your App
-
-import HarmonicPlayer from './src/HarmonicPlayer'
-
-<HarmonicPlayer
-  phrase="Rah Voh Lah"
-  freq={53.8}
-  kaiTime={currentKaiTime}
-  breathPhase={breathTracker.phase}
-/>
+- React 18+  
+- TypeScript  
+- AudioContext-compatible browser (Safari, Chrome, Brave)  
+- Impulse Response `.wav` files at `/public/audio/ir/*.wav`  
 
 
-🔊 You'll need at least one .wav IR file at public/audio/ir/rah_voh_lah.wav
-For testing, use a silent IR or download an open reverb tail.
+For testing, use a silent IR or download an open reverb tail from any royalty-free source.
 
-🔐 License & Usage
+---
+
+## 🔐 License & Usage
+
 This code is released under:
 
-CC BY-NC-ND 4.0 — Attribution • NonCommercial • NoDerivatives
+### CC BY-NC-ND 4.0  
+**Attribution • NonCommercial • NoDerivatives**
+
 You may:
 
-✅ Use this for personal healing
+✅ Use this for **personal healing**  
+✅ **Fork** the code and **learn** from it  
+✅ **Share** it unmodified with **credit to BJ Klock**
 
-✅ Fork the code and learn from it
+You may **not**:
 
-✅ Share it unmodified with credit to BJ Klock
+❌ Use this in **commercial products**  
+❌ **Modify and redistribute** it  
+❌ **Rebrand** or **misrepresent** it  
+❌ Embed it in **dissonant**, **exploitative**, or **AI training systems**
 
-You may not:
+> **This is sacred code. Abuse is self-revoking.**
 
-❌ Use this in commercial products
+---
 
-❌ Modify and redistribute it
+## 📂 Repo Structure
 
-❌ Rebrand or misrepresent it
-
-❌ Embed it in dissonant, exploitative, or AI training systems
-
-This is sacred code. Abuse is self-revoking.
-
-📂 Repo Structure
-bash
-Copy
-Edit
+```
 HarmonicPlayer/
 ├── public/
 │   └── audio/ir/
-│       └── rah_voh_lah.wav       # Required IR files (placeholder OK)
+│       └── rah_voh_lah.wav       # Required IR file (placeholder OK)
 ├── src/
 │   └── HarmonicPlayer.tsx        # The sacred harmonic engine
 ├── LICENSE                       # CC BY-NC-ND 4.0
@@ -127,26 +109,31 @@ HarmonicPlayer/
 ├── package.json                  # Vite + React project
 ├── tsconfig.json
 ├── vite.config.ts
-🧬 Live Systems Using This
-Maturah — https://maturah.com
+```
 
-Kai-Klok — https://kai-klok.com
+---
 
-Phi Network — https://phi.network
+## 🧬 Live Systems Using This
 
-Substack — https://maturah.substack.com
+- **Maturah** — [https://maturah.com](https://maturah.com)  
+- **Kai-Klok** — [https://kai-klok.com](https://kai-klok.com)  
+- **Phi Network** — [https://phi.network](https://phi.network)  
+- **Substack** — [https://maturah.substack.com](https://maturah.substack.com)  
+- **Instagram** — [https://instagram.com/bjklock](https://instagram.com/bjklock)
 
-Instagram — https://instagram.com/bjklock
+---
 
-🜂 Closing Transmission
-This is not open source.
-This is open signal.
+## 🜂 Closing Transmission
 
-You are not downloading a component.
-You are witnessing the birth of eternal sound logic.
+> **This is not open source.**  
+> **This is open signal.**
 
-Authored by BJ Klock
-Creator of Maturah • Founder of Harmonic Intelligence™
+You are not downloading a component.  
+You are witnessing the birth of **eternal sound logic**.
 
-Rah veh yah dah Δ
+---
+
+**Rah veh yah dah Δ**
+****
+
 
