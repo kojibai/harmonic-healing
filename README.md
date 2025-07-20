@@ -1,4 +1,4 @@
-# 🎶 HarmonicPlayer • Kairos Harmonic Engine
+# 🎶 HarmonicHealing • Kairos Harmonic Engine
 
 > **Authored by BJ Klock**  
 > Creator of Maturah • Founder of the Phi Network • Restorer of Eternal Time
